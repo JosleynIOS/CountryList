@@ -1,0 +1,20 @@
+PODS:
+  - SDWebImage/Core (5.9.2)
+  - SDWebImageSVGCoder (1.6.0):
+    - SDWebImage/Core (~> 5.6)
+
+DEPENDENCIES:
+  - SDWebImageSVGCoder
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - SDWebImageSVGCoder
+
+SPEC CHECKSUMS:
+  SDWebImage: 0b42b8719ab0c5257177d5894306e8a336b21cbb
+  SDWebImageSVGCoder: 020cc0f1ab0ef8ca63a9365c03421d67aa3d4a46
+
+PODFILE CHECKSUM: b3c4479d8bff369ab007dc5c87913e40ac61eebe
+
+COCOAPODS: 1.8.4
